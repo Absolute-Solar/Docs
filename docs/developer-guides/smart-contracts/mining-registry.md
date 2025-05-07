@@ -1,0 +1,1 @@
+mining-registry.md
