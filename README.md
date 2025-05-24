@@ -18,10 +18,10 @@ Common endpoints:
 
 We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on:
 
-1.) Code of conduct
-2.) Development workflow
-3.) Pull request process
-4.) Coding standards
+1.) Code of conduct <br>
+2.) Development workflow <br>
+3.) Pull request process <br>
+4.) Coding standards <br>
 5.) Testing requirements
 
 ---
