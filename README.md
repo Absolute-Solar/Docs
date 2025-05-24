@@ -9,9 +9,9 @@ Our API documentation is available at <a>https://3rdtest.webflow.io/docs/apis</a
 
 Common endpoints:
 
-1.) `/api/v1/transactions` - Create and query transactions
-2.) `/api/v1/blocks` - Get block information
-3.) `/api/v1/accounts` - Account management and balance queries
+1.) `/api/v1/transactions` - Create and query transactions <br>
+2.) `/api/v1/blocks` - Get block information <br>
+3.) `/api/v1/accounts` - Account management and balance queries <br>
 4.) `/api/v1/contracts` - Smart contract deployment and interaction
 
 ## Contributing
