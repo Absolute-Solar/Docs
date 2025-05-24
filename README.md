@@ -31,7 +31,7 @@ We welcome contributions to the CryptoSun documentation! This section explains h
 
 Fork the repo on GitHub or clone it locally:
   
-    git clone https://github.com/yourusername/cryptosun-docs.git
+    git clone https://github.com/Absolute-Solar/Docs.git
     cd cryptosun-docs
 
 2.) Create a New Branch:
@@ -99,7 +99,7 @@ Refer to CONTRIBUTING.md for detailed contribution guidelines. <br>
 
 Thank you for helping improve CryptoSun’s documentation!
 
-## Contributing
+## Contributing 
 
 We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on:
 
