@@ -5,7 +5,7 @@ Documentation for CryptoSun renewable Solana energy network <br>
 
 ## API Reference
 
-Our API documentation is available at <a>https://3rdtest.webflow.io/docs/apis</a>.
+Our API documentation is available at <a>https://3rdtest.webflow.io/docs/apis</a>
 
 Common endpoints:
 
