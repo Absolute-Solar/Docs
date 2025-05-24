@@ -1,6 +1,6 @@
 # CryptoSun Docs
 Documentation for CryptoSun renewable Solana energy network <br>
-<a>https://3rdtest.webflow.io/docs/getting-started</a>
+<a href="https://3rdtest.webflow.io/docs/getting-started">Full Documentation</a>
 
 # Your Cryptocurrency Project
 A modern cryptocurrency solution designed for [specific use case/problem you're solving]. This project aims to provide a secure, scalable, and decentralized platform for digital transactions.
