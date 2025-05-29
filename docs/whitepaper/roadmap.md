@@ -2,7 +2,9 @@
 
 ## Q4 2025: 
 
-    CryptoSun’s Network will launch its CryptoSun basic token on Solana's blockchain with a dedicated launchpad for early investors offering exclusive perks. Token allocation will include distributions for staking rewards, liquidity pools, marketing initiatives, and         community airdrops, all managed through purpose-built smart contracts for token management and staking functionality.
+    CryptoSun’s Network will launch its CryptoSun basic token on Solana's blockchain with a dedicated launchpad for early investors offering exclusive perks. <br>
+    Token allocation will include distributions for staking rewards, liquidity pools, marketing initiatives, and community airdrops, <br>
+    all managed through purpose-built smart contracts for token management and staking functionality.
 
 ## Q2 2026: 
 
