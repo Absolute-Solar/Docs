@@ -1,1 +1,0 @@
-utility-model.md

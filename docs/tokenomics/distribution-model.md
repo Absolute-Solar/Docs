@@ -1,1 +1,0 @@
-distribution-model.md
