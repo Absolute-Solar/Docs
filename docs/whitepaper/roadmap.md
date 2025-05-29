@@ -6,7 +6,8 @@
 
 ## Q2 2026: 
 
-    Staking rewards will go live with annual CryptoSun minting to fund the reward structure. Simultaneously, the token burn mechanism and airdrop smart contract will be activated. Strategic partnerships with solar energy providers will be established to grow the ecosystem and connect digital assets with real-world renewable infrastructure.
+    Staking rewards will go live with annual CryptoSun minting to fund the reward structure. Simultaneously, the token burn mechanism and airdrop smart contract will be activated.
+    Strategic partnerships with solar energy providers will be established to grow the ecosystem and connect digital assets with real-world renewable infrastructure.
 
 ## Q4 2026: 
 
